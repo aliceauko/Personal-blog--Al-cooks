@@ -1,0 +1,97 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+nav{
+    height: 120px;
+    background-color:yellow;
+    display: flex;
+    justify-content: center;
+    position:fixed;
+    width: 100%;
+}
+
+nav img{
+    width: 90px;
+    position: absolute;
+    top: 10px;
+    left: 8%;
+    border-radius: 20%;
+    
+
+}
+
+nav ul{
+ 
+    margin-right: 25px;
+
+}
+nav ul li{
+    display: inline-block;
+    line-height:110px;
+    margin: 0 60px;
+    font-size: 20px;
+}
+
+nav ul li a{
+position: relative;
+color: black;
+font-weight: 600;
+text-transform: uppercase;
+}
+
+nav >ul >li >a:hover{
+    color: red;
+    font-size: 22px;
+}
+
+#yes{
+    background-image:url("../IMAGES/orange.jpg");
+    padding-top: 200px;
+    background-size: cover;
+    height: 600px;
+    width:100%;
+    justify-content: center;
+}
+
+#yes h2{
+    font-size: 100px;
+    color: white;
+    padding-left: 80px;
+}
+#yes p{
+    padding-left: 80px; 
+    font-size: 30px;
+    color: yellow;
+    line-height: 50px;
+}
+
+.search{
+    padding-left: 80px;
+    padding-top: 120px;
+    
+}
+
+.search-txt{
+    height: 50px;
+    border-radius: 20px;
+    animation-name: search;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    font-size: 15px;
+    
+}
+@keyframes search{
+    from {width:300px;font-size: 20px; color: black;}
+    to {width: 400px; font-size: 25px;color:var(--blue);}
+}
+.search-txt:hover{
+    width: 500px;
+}
+   
+
+
