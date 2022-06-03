@@ -94,4 +94,15 @@ nav >ul >li >a:hover{
 }
    
 
+.food{
+    display: flex;
+    justify-content: space-between;
 
+}
+
+.show{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+    border-color: yellow;
+}
