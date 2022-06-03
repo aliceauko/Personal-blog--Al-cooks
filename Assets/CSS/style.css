@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 *{
     list-style: none;
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: 'Poppins';
 }
 
 nav{
     height: 120px;
-    background-color:yellow;
+    background-color:#FFFF66;
     display: flex;
     justify-content: center;
     position:fixed;
@@ -82,27 +84,85 @@ nav >ul >li >a:hover{
     animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
-    font-size: 15px;
+    font-size: 16px;
     
 }
 @keyframes search{
-    from {width:300px;font-size: 20px; color: black;}
-    to {width: 400px; font-size: 25px;color:var(--blue);}
+    from {width:300px;font-size: 16px; color: black;}
+    to {width: 400px; font-size: 20px;color:var(--blue);}
 }
 .search-txt:hover{
     width: 500px;
 }
+h5{
+padding-left: 36%;
+padding-top: 20px;
+padding-bottom: 10px;
+font-weight: 600;
+}
    
-
+h2{
+    padding-left: 40%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-weight: 700;
+   
+}
+h3{
+    padding-bottom: 20px;
+    padding-left: 28px;
+    font-weight: 700;
+}
 .food{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+
 
 }
 
 .show{
-    width: 350px;
-    height: 300px;
+    width: 400px;
+    height: 350px;
     border-radius: 20px;
     border-color: yellow;
+}
+
+.show:hover{
+    box-shadow: 2px 12px 32px black;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.hide{
+    line-height: 30px;
+    margin-top: 30px;
+    display: none;
+}
+.hid{
+    line-height: 30px;
+    margin-top: 30px;
+    display: none;
+}
+
+
+
+
+button{
+        padding: 10px;
+        margin-top: 30px;
+        background-color:yellow;
+        border: 1;
+        border-radius: 10px;
+        border-color:yellow;
+        cursor: pointer;
+        transition: all 0.3s ease 0s;
+        margin-left: 40%;
+        font-weight: 700;
+        
+}
+button:hover{
+        background-color: antiquewhite;
+        color: red;
 }
