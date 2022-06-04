@@ -16,4 +16,6 @@ beginer.addEventListener('click', (e) => {
     hid.style.display = 'block';
   });
 
-
+function myFunction(){
+  alert('Form submitted')
+}
