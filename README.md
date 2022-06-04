@@ -2,7 +2,7 @@
 ##By Alice Auko
 
 ## Screenshot
- ()
+  ![image](./Assets/IMAGES/als.png)
 
 ##Table of Content
 
