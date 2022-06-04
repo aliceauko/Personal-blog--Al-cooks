@@ -1,5 +1,8 @@
-#Al-cooks
+##Personal-website-Al-cooks
 ##By Alice Auko
+
+## Screenshot
+ !()
 
 ##Table of Content
 
@@ -15,7 +18,7 @@
 
  ##Description
 
- <p> This project ia a web application for Moringa school landing page showing the various activities that take place at the school including the technical mentors. It has information about the orientation, the board meating and graduation. It also gives a brief introduction of some of the technical mentors.There are also links to direct you tpo other pages such as to see the courses offered and even ask questions.</p>
+ <p> This project is a personal blog website where I get to post the recepies of different foods daily. The users are abble to know about me and are able to interact with me by sending emails</p>
 
 
  [Go back to the top](#Personal-website-Al-cooks)
@@ -24,31 +27,31 @@
 
  As a user of the web page, you will be able to:
 
- 1.See a description of the events that happen in the school
+ 1.See recipes
  2.Ask questions on whatever you want to know
- 3.Navigate to other pages that have more information
+ 3.Navigate to other sections podf the page that have more information
 
 
- [Go back to the top](#Moringa school landing page)
+ [Go back to the top](##Personal-website-Al-cooks)
 
 ##Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
 ||:-------------:| :----------:| -----------:|
-|Enter your name| Aliec Auko|                   |
+|Enter your name| Alice Auko|                   |
 |Enter your Email Adress |
 aukoalice@gmail.com |  |
 |Ask your question, message or comment|
-[Press Submit] |Pop up "Alice Auko, we have received your message. Thank you for reaching out to us.|
+[Press Submit] |Pop up "Thank you for reaching out!. Message received and we'll soon get back to you via email."|
 
 
- [Go back to the top](#Moringa school landing page)
+ [Go back to the top](##Personal-website-Al-cooks)
 
  ###Requirements
  * Access to  a computer or any other garget
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone https://github.com/aliceauko/Moringa-school-landing-page
+* Clone to thir repo : git clone git@github.com:aliceauko/Personal-blog--Al-cooks.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
@@ -57,12 +60,13 @@ aukoalice@gmail.com |  |
  [Go Back to the top](#Personal-website-Al-cooks)
 
 ### Live Link
--Click the live link at the about section in the main branch
+-
 
 
 ###Technology Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
+* JS   -which wa sused to add interactivity to the web page
 
 
 [Go Back to the top](#Personal-website-Al-cooks)
