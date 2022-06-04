@@ -17,5 +17,5 @@ beginer.addEventListener('click', (e) => {
   });
 
 function myFunction(){
-  alert("Thank you for getting intouch. Message received and we'll reach out to you via email soon")
+  alert("Thank you for reaching out!. Message received and we'll soon get back to you via email.")
 }

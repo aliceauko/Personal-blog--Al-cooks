@@ -1,4 +1,4 @@
-#Moringa school landing page
+#Al-cooks
 ##By Alice Auko
 
 ##Table of Content
@@ -18,7 +18,7 @@
  <p> This project ia a web application for Moringa school landing page showing the various activities that take place at the school including the technical mentors. It has information about the orientation, the board meating and graduation. It also gives a brief introduction of some of the technical mentors.There are also links to direct you tpo other pages such as to see the courses offered and even ask questions.</p>
 
 
- [Go back to the top](#Moringa school landing page)
+ [Go back to the top](#Personal-website-Al-cooks)
 
  ##Features
 
@@ -54,7 +54,7 @@ aukoalice@gmail.com |  |
  ****
 
 
- [Go Back to the top](#Moringa school landing page)
+ [Go Back to the top](#Personal-website-Al-cooks)
 
 ### Live Link
 -Click the live link at the about section in the main branch
@@ -65,7 +65,7 @@ aukoalice@gmail.com |  |
 * CSS - which was used to style the User Interface.
 
 
-[Go Back to the top](#Moringa school landing page)
+[Go Back to the top](#Personal-website-Al-cooks)
 
 ##Known Bugs
 *Unwanted space in the page
@@ -90,10 +90,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE WEBPAGE OR THE USE OR OTHER DEALINGS IN THE
 WEBPAGE
 
-[Go Back to the top](#Moringa school landing page)
+[Go Back to the top](#Personal-website-Al-cooks)
 
 ## Authors Info
 
 Linked - [Owiti Alice Auko](https://www.linkedin.com/in/owiti-alice-auko-580b2818a)
 
-[Go Back to the top](#Moringa school landing page)
+[Go Back to the top](#Personal-website-Al-cooks)
