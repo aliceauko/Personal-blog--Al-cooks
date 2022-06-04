@@ -94,6 +94,12 @@ nav >ul >li >a:hover{
 .search-txt:hover{
     width: 500px;
 }
+
+#recipes{
+    margin-top: 100px;
+  
+    
+}
 h5{
 padding-left: 36%;
 padding-top: 20px;
@@ -117,6 +123,7 @@ h3{
     display: flex;
     justify-content: space-around;
     align-items: center;
+  
 
 
 }
@@ -150,7 +157,7 @@ h3{
 
 
 button{
-        padding: 10px;
+        padding: 20px;
         margin-top: 30px;
         background-color:yellow;
         border: 1;
@@ -160,6 +167,7 @@ button{
         transition: all 0.3s ease 0s;
         margin-left: 40%;
         font-weight: 700;
+        font-size: 20px;
         
 }
 button:hover{
@@ -173,18 +181,23 @@ button:hover{
 }
 
 #me{
-    background-image: url("Assets/IMAGES/yes.jpg");
+    background-image: url("../IMAGES/yes.jpg");
 }
 .mee{
 display: flex;
-justify-content: space-around;
+justify-content:space-around;
 margin-top:20px;
 
 }
 
+.mee p{
+ line-height: 40px;
+ font-family: serif;
+ font-size: 20px;
+}
 .al{
     margin-left: 80px;
-    height:400px ;
+    height:500px ;
     width: 400px;
     
 }
