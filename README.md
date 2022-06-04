@@ -51,7 +51,7 @@ aukoalice@gmail.com |  |
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone git@github.com:aliceauko/Personal-blog--Al-cooks.git
+* Clone to thir repo :https://github.com/aliceauko/Personal-blog--Al-cooks
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
